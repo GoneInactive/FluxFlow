@@ -52,4 +52,3 @@ This will typically open the application in your default browser at `http://loca
 *   **Filter Tasks**: Use the "Filter" button at the top to filter your tasks by status, project, or priority.
 
 ---
-Developed by Your Name/Team Name (Optional)
